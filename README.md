@@ -1,4 +1,4 @@
-# BitTorrent Client Implementation
+# Bit_Torrent Client Implementation
 
 This is a BitTorrent client implementation built with [Golang](https://www.golang.org/) using the [BitTorrent Protocol Specification](https://www.bittorrent.org/beps/bep_0003.html).
 
